@@ -1,0 +1,15 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "Es una simple app de creacion de tablas de multiplicar en archivos de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al Solis",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  }
+}
